@@ -29,7 +29,7 @@
 <em>|</em> <span class="p-bi-date">
         2016-07      </span>
 </div>
-<div class="p-shop hide" data-done="1" data-reputation="0" data-score="4" data-shopid=""></div>
+<div class="p-shop hide" data-done="1" data-reputation="0" data-sco:e="4" data-shopid=""></div>
 <div class="p-commit"></div>
 <div class="p-shopnum">
 <span class="curr-shop">京东自营</span>
