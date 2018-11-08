@@ -39,16 +39,36 @@ while nTestCount <= 2:
         strJson = strReturn[strReturn.find("{"):strReturn.rfind("}")+1]
         dataJson = json.loads(strJson)
         
-        # Add into a Dict.
+        # Get the goodRate
+        pageSize = 1
+        urlVeryDetailsJson = "https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4374&productId="+dataSku+"&score=0&sortType=5&page=0&pageSize="+str(pageSize)+"&isShadowSku=0&fold=1"
+        request = Request(url=urlVeryDetailsJson,headers=headers)
+        html = urlopen(request)
+        bsObj = BeautifulSoup(html,fromEncoding="gb18030")
+        strReturnDetails = str(bsObj)
+        strReturnDetails = strReturnDetails[strReturnDetails.find("{"):strReturnDetails.rfind("}")+1]  
+        goodRate = 0
+        try:
+            jsonPageComments = json.loads(strReturnDetails)
+            print(jsonPageComments)
+            goodRate = jsonPageComments["productCommentSummary"]["goodRate"]
+        except json.decoder.JSONDecodeError as e:            
+            goodRate = 0       
+
+        # add into a Dict.
         dictItemValue["title"] = title
         dictItemValue["itemURL"] = itemURL
         dictItemValue["price"] = dataJson["p"]
+        dictItemValue["goodRate"] = int(goodRate*100)
         #dictItem[dataSku] = title+","+itemURL+","+dataJson["p"]
         dictItem[dataSku] = dictItemValue
+
+        
     nTestCount += 1
 
 
 for key in dictItem:
     for subKey in dictItem[key]:
-        print(subKey+":"+dictItem[key][subKey])
+        pass
+        #print(subKey+":"+str(dictItem[key][subKey]))
 
