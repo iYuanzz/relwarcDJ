@@ -19,7 +19,7 @@ allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
 
 dictItem = {}
 nTestCount = 2
-while nTestCount <= 2:
+while nTestCount <= 3:
     #dictItemValue = {}
     for ItemInfo in allItemInfo:
         #dictItemValue.clear()
@@ -50,7 +50,7 @@ while nTestCount <= 2:
         goodRate = 0
         try:
             jsonPageComments = json.loads(strReturnDetails)
-            print(jsonPageComments)
+            #print(jsonPageComments)
             goodRate = jsonPageComments["productCommentSummary"]["goodRate"]
         except json.decoder.JSONDecodeError as e:            
             goodRate = 0       
@@ -63,12 +63,18 @@ while nTestCount <= 2:
         #dictItem[dataSku] = title+","+itemURL+","+dataJson["p"]
         dictItem[dataSku] = dictItemValue
 
-        
+    # move to next page
+    nextPageURL ="https://list.jd.com/list.html?cat=1713,3287,3797&page="+str(nTestCount)+"&sort=sort_rank_asc&trans=1&JL=6_0_0" 
+    request = Request(url=nextPageURL,headers=headers)
+    html = urlopen(request)
+    bsObj = BeautifulSoup(html)
+    allItemInfo.clear()
+    allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
     nTestCount += 1
 
 
 for key in dictItem:
     for subKey in dictItem[key]:
-        pass
-        #print(subKey+":"+str(dictItem[key][subKey]))
+        #pass
+        print(subKey+":"+str(dictItem[key][subKey]))
 
