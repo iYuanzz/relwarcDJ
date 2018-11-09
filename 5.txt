@@ -1,0 +1,1200 @@
+price:115.20
+goodRate:98
+title:
+                Head First Python（第二版）      
+itemURL:https://item.jd.com/12273591.html
+price:41.60
+goodRate:99
+title:
+                Python网络数据采集      
+itemURL:https://item.jd.com/11896401.html
+price:57.90
+goodRate:99
+title:
+                零基础学C#（全彩版 附光盘 小白实战手册）      
+itemURL:https://item.jd.com/12271986.html
+price:42.20
+goodRate:99
+title:
+                Python 3.5从零开始学       
+itemURL:https://item.jd.com/12227940.html
+price:42.80
+goodRate:98
+title:
+                C和C++经典著作：C专家编程Expert C Programming Deep C Secrets      
+itemURL:https://item.jd.com/10062655.html
+price:35.50
+goodRate:99
+title:
+                啊哈 算法      
+itemURL:https://item.jd.com/11477302.html
+price:56.10
+goodRate:97
+title:
+                Java并发编程的艺术       
+itemURL:https://item.jd.com/11740734.html
+price:22.50
+goodRate:98
+title:
+                计算机科学丛书：C程序设计语言（第2版·新版）       
+itemURL:https://item.jd.com/10057446.html
+price:79.00
+goodRate:99
+title:
+                Python 3网络爬虫开发实战      
+itemURL:https://item.jd.com/12333540.html
+price:39.10
+goodRate:99
+title:
+                算法图解       
+itemURL:https://item.jd.com/12148832.html
+price:52.50
+goodRate:99
+title:
+                区块链核心算法解析      
+itemURL:https://item.jd.com/12221044.html
+price:79.20
+goodRate:97
+title:
+                Lua程序设计（第4版）      
+itemURL:https://item.jd.com/12384305.html
+price:57.90
+goodRate:98
+title:
+                剑指Offer：名企面试官精讲典型编程题（第2版）      
+itemURL:https://item.jd.com/12163054.html
+price:71.80
+goodRate:99
+title:
+                学习编程第一步 零基础上手Python开发      
+itemURL:https://item.jd.com/12393719.html
+price:36.10
+goodRate:99
+title:
+                案例学WEB前端开发 HTML5+CSS3+JavaScript+手机响应式网页开发（全彩版）      
+itemURL:https://item.jd.com/12449512.html
+price:94.10
+goodRate:99
+title:
+                Python核心编程（第3版）       
+itemURL:https://item.jd.com/11936238.html
+price:53.80
+goodRate:98
+title:
+                C语言从入门到精通（第3版）（附光盘）/软件开发视频大讲堂      
+itemURL:https://item.jd.com/12132428.html
+price:50.60
+goodRate:99
+title:
+                C++项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163147.html
+price:56.10
+goodRate:98
+title:
+                Go语言实战      
+itemURL:https://item.jd.com/12136974.html
+price:55.00
+goodRate:0
+title:
+                深入浅出Node.js       
+itemURL:https://item.jd.com/11355978.html
+price:38.60
+goodRate:99
+title:
+                算法帝国      
+itemURL:https://item.jd.com/11465534.html
+price:66.30
+goodRate:98
+title:
+                第一行代码 C语言 视频讲解版      
+itemURL:https://item.jd.com/12339997.html
+price:84.60
+goodRate:99
+title:
+                程序员学Python      
+itemURL:https://item.jd.com/12405421.html
+price:57.90
+goodRate:99
+title:
+                Java精彩编程200例（全彩版）      
+itemURL:https://item.jd.com/12185937.html
+price:32.20
+goodRate:98
+title:
+                用户体验要素：以用户为中心的产品设计（原书第2版）       
+itemURL:https://item.jd.com/10690653.html
+price:54.40
+goodRate:99
+title:
+                和孩子一起玩编程      
+itemURL:https://item.jd.com/12297785.html
+price:65.10
+goodRate:99
+title:
+                C#精彩编程200例 （全彩版 附光盘）      
+itemURL:https://item.jd.com/12235813.html
+price:57.90
+goodRate:97
+title:
+                大型网站系统与Java中间件实践      
+itemURL:https://item.jd.com/11449803.html
+price:104.60
+goodRate:98
+title:
+                代码大全（第2版）      
+itemURL:https://item.jd.com/10875285.html
+price:62.60
+goodRate:97
+title:
+                Java从入门到精通（第4版 附光盘）      
+itemURL:https://item.jd.com/11985075.html
+price:113.90
+goodRate:97
+title:
+                轻量级Java EE企业应用实战（第5版）――Struts 2+Spring 5+Hiberna      
+itemURL:https://item.jd.com/12327466.html
+price:54.50
+goodRate:98
+title:
+                自己动手写Java虚拟机      
+itemURL:https://item.jd.com/11935272.html
+price:56.10
+goodRate:99
+title:
+                神经网络算法与实现 基于Java语言      
+itemURL:https://item.jd.com/12165339.html
+price:65.60
+goodRate:98
+title:
+                深入理解Spring Cloud与微服务构建      
+itemURL:https://item.jd.com/12312724.html
+price:65.60
+goodRate:98
+title:
+                小程序，巧应用:微信小程序开发实战 第2版      
+itemURL:https://item.jd.com/12147285.html
+price:65.60
+goodRate:99
+title:
+                基于深度学习的自然语言处理      
+itemURL:https://item.jd.com/12355569.html
+price:96.60
+goodRate:98
+title:
+                Java核心技术卷II：高级特性（原书第10版）      
+itemURL:https://item.jd.com/12198563.html
+price:90.30
+goodRate:0
+title:
+                JavaScript框架设计（第2版）      
+itemURL:https://item.jd.com/12239072.html
+price:84.60
+goodRate:98
+title:
+                C Primer Plus 第6版 中文版       
+itemURL:https://item.jd.com/11917487.html
+price:63.00
+goodRate:99
+title:
+                图解设计模式      
+itemURL:https://item.jd.com/12019365.html
+price:65.60
+goodRate:99
+title:
+                Scratch 2.0少儿游戏趣味编程      
+itemURL:https://item.jd.com/12360075.html
+price:62.10
+goodRate:99
+title:
+                区块链安全技术指南      
+itemURL:https://item.jd.com/12377422.html
+price:63.00
+goodRate:98
+title:
+                第一行代码 Android 第2版       
+itemURL:https://item.jd.com/12012505.html
+price:84.60
+goodRate:99
+title:
+                Python自然语言处理      
+itemURL:https://item.jd.com/11487324.html
+price:57.90
+goodRate:99
+title:
+                深度学习框架PyTorch：入门与实践      
+itemURL:https://item.jd.com/12261129.html
+price:54.90
+goodRate:99
+title:
+                Go程序设计语言      
+itemURL:https://item.jd.com/12187988.html
+price:61.30
+goodRate:99
+title:
+                Python 深度学习实战：75个有关神经网络建模、强化学习与迁移学习的解决方案      
+itemURL:https://item.jd.com/12391038.html
+price:35.50
+goodRate:99
+title:
+                枕边算法书      
+itemURL:https://item.jd.com/12324744.html
+price:95.80
+goodRate:99
+title:
+                利用Python进行数据分析（原书第2版）       
+itemURL:https://item.jd.com/12398725.html
+price:86.90
+goodRate:99
+title:
+                Python数据科学手册      
+itemURL:https://item.jd.com/12293703.html
+price:39.10
+goodRate:0
+title:
+                JavaScript DOM编程艺术（第2版）       
+itemURL:https://item.jd.com/10603153.html
+price:53.10
+goodRate:99
+title:
+                白话区块链      
+itemURL:https://item.jd.com/12236097.html
+price:46.60
+goodRate:99
+title:
+                代码整洁之道 程序员的职业素养      
+itemURL:https://item.jd.com/11977659.html
+price:80.90
+goodRate:97
+title:
+                Java 从入门到项目实践（超值版）（软件开发魔典）      
+itemURL:https://item.jd.com/12407147.html
+price:84.60
+goodRate:99
+title:
+                利用Python进行数据分析      
+itemURL:https://item.jd.com/11352441.html
+price:84.60
+goodRate:99
+title:
+                趣学算法      
+itemURL:https://item.jd.com/12153875.html
+price:114.80
+goodRate:97
+title:
+                揭秘Java虚拟机：JVM设计原理与实现      
+itemURL:https://item.jd.com/12095193.html
+price:65.60
+goodRate:99
+title:
+                Python神经网络编程      
+itemURL:https://item.jd.com/12335366.html
+price:155.80
+goodRate:97
+title:
+                C++标准库（第2版）      
+itemURL:https://item.jd.com/11706352.html
+price:94.10
+goodRate:98
+title:
+                C++ Primer Plus（第6版 中文版）       
+itemURL:https://item.jd.com/11017238.html
+price:56.10
+goodRate:0
+title:
+                JavaScript学习指南 第3版      
+itemURL:https://item.jd.com/12123997.html
+price:62.10
+goodRate:99
+title:
+                区块链开发实战：以太坊关键技术与案例分析      
+itemURL:https://item.jd.com/12380446.html
+price:65.60
+goodRate:98
+title:
+                Servlet JSP和Spring MVC初学指南      
+itemURL:https://item.jd.com/12062994.html
+price:56.40
+goodRate:99
+title:
+                零基础学Oracle （全彩版 附光盘 小白实战手册）      
+itemURL:https://item.jd.com/12271911.html
+price:47.60
+goodRate:99
+title:
+                HTML5 APP 开发从入门到精通（基于HTML5+CSS3+jQueryMobile+Bootstrap）      
+itemURL:https://item.jd.com/12131083.html
+price:61.40
+goodRate:97
+title:
+                深度探索C++对象模型      
+itemURL:https://item.jd.com/10909788.html
+price:61.40
+goodRate:98
+title:
+                自动化平台测试开发：Python测试开发实战      
+itemURL:https://item.jd.com/12373367.html
+price:28.80
+goodRate:98
+title:
+                C程序设计（第五版）学习辅导/中国高等院校计算机基础教育课程体系规划教材      
+itemURL:https://item.jd.com/12236704.html
+price:88.10
+goodRate:99
+title:
+                ES6标准入门（第3版）       
+itemURL:https://item.jd.com/12172449.html
+price:30.30
+goodRate:98
+title:
+                C程序设计（第五版）/中国高等院校计算机基础教育课程体系规划教材       
+itemURL:https://item.jd.com/12171757.html
+price:61.80
+goodRate:98
+title:
+                C和C++经典著作：C和指针 POINTERS ON C      
+itemURL:https://item.jd.com/10062667.html
+price:68.30
+goodRate:99
+title:
+                算法(第4版)      
+itemURL:https://item.jd.com/11098789.html
+price:89.10
+goodRate:98
+title:
+                深入分布式缓存：从原理到实践      
+itemURL:https://item.jd.com/12276070.html
+price:65.60
+goodRate:99
+title:
+                区块链技术指南      
+itemURL:https://item.jd.com/12007317.html
+price:88.20
+goodRate:97
+title:
+                Java JDK 9学习笔记      
+itemURL:https://item.jd.com/12386639.html
+price:65.60
+goodRate:99
+title:
+                Python编程快速上手 让繁琐工作自动化      
+itemURL:https://item.jd.com/11943853.html
+price:56.10
+goodRate:99
+title:
+                Python深度学习      
+itemURL:https://item.jd.com/12376668.html
+price:79.20
+goodRate:98
+title:
+                Kotlin实战      
+itemURL:https://item.jd.com/12224904.html
+price:79.20
+goodRate:99
+title:
+                JavaEE开发的颠覆者：Spring Boot实战       
+itemURL:https://item.jd.com/11894632.html
+price:89.60
+goodRate:96
+title:
+                PHP和MySQL Web开发（原书第5版）      
+itemURL:https://item.jd.com/12293611.html
+price:56.10
+goodRate:99
+title:
+                趣学Python：教孩子学编程      
+itemURL:https://item.jd.com/11645599.html
+price:63.50
+goodRate:99
+title:
+                零基础学Android （全彩版 附2张光盘小白实战手册）      
+itemURL:https://item.jd.com/12199033.html
+price:36.10
+goodRate:98
+title:
+                Effective Java中文版（第2版）       
+itemURL:https://item.jd.com/10058902.html
+price:54.40
+goodRate:99
+title:
+                jQuery实战从入门到精通      
+itemURL:https://item.jd.com/12222954.html
+price:71.10
+goodRate:99
+title:
+                区块链启示录：中本聪文集      
+itemURL:https://item.jd.com/12437385.html
+price:169.20
+goodRate:0
+title:
+                Java从入门到动手写虚拟机1（套装共2册）      
+itemURL:https://item.jd.com/12064019.html
+price:52.50
+goodRate:99
+title:
+                More Effective C++：35个改善编程与设计的有效方法（中文版）      
+itemURL:https://item.jd.com/10484020.html
+price:61.20
+goodRate:0
+title:
+                JavaScript从入门到精通（标准版）      
+itemURL:https://item.jd.com/12123537.html
+price:84.60
+goodRate:99
+title:
+                Java架构师指南      
+itemURL:https://item.jd.com/12372626.html
+price:71.10
+goodRate:99
+title:
+                区块链开发实战：Hyperledger Fabric关键技术与案例分析      
+itemURL:https://item.jd.com/12380456.html
+price:70.30
+goodRate:99
+title:
+                深度学习原理与TensorFlow实践      
+itemURL:https://item.jd.com/12186034.html
+price:62.30
+goodRate:99
+title:
+                算法的乐趣      
+itemURL:https://item.jd.com/11670027.html
+price:100.90
+goodRate:97
+title:
+                C++ Primer英文版（第5版）      
+itemURL:https://item.jd.com/11220904.html
+price:24.30
+goodRate:98
+title:
+                数据结构与算法分析：C语言描述（原书第2版）       
+itemURL:https://item.jd.com/10057441.html
+price:61.40
+goodRate:99
+title:
+                Python与机器学习实战：决策树、集成学习、支持向量机与神经网络算法详解及编程实现      
+itemURL:https://item.jd.com/12125529.html
+price:53.10
+goodRate:99
+title:
+                Node.js区块链开发      
+itemURL:https://item.jd.com/12206128.html
+price:79.20
+goodRate:99
+title:
+                Python编程之美：最佳实践指南      
+itemURL:https://item.jd.com/12428772.html
+price:88.10
+goodRate:99
+title:
+                Effective Java（第3版）（英文版）      
+itemURL:https://item.jd.com/12393866.html
+price:71.00
+goodRate:99
+title:
+                Python编程 从入门到实践       
+itemURL:https://item.jd.com/11993134.html
+price:89.10
+goodRate:0
+title:
+                NIO与Socket编程技术指南      
+itemURL:https://item.jd.com/12395281.html
+price:46.60
+goodRate:0
+title:
+                锋利的jQuery（第2版）      
+itemURL:https://item.jd.com/11019625.html
+price:89.10
+goodRate:99
+title:
+                Python数据科学：技术详解与商业实践      
+itemURL:https://item.jd.com/12405790.html
+price:97.00
+goodRate:97
+title:
+                疯狂Java讲义（第4版）      
+itemURL:https://item.jd.com/12261787.html
+price:113.10
+goodRate:97
+title:
+                O'Reilly：Python学习手册（第4版）       
+itemURL:https://item.jd.com/10599758.html
+price:56.10
+goodRate:99
+title:
+                笨办法学Python 3      
+itemURL:https://item.jd.com/12372646.html
+price:65.60
+goodRate:99
+title:
+                文本上的算法:深入浅出自然语言处理      
+itemURL:https://item.jd.com/12310732.html
+price:55.00
+goodRate:99
+title:
+                父与子的编程之旅：与小卡特一起学Python      
+itemURL:https://item.jd.com/11576833.html
+price:56.10
+goodRate:0
+title:
+                代码整洁之道       
+itemURL:https://item.jd.com/10064006.html
+price:75.10
+goodRate:99
+title:
+                零基础学Scratch 图文版      
+itemURL:https://item.jd.com/12367718.html
+price:178.20
+goodRate:97
+title:
+                C#高级编程（第10版 C#6&.NET Core1.0）/.NET开发经典名著      
+itemURL:https://item.jd.com/12366788.html
+price:64.60
+goodRate:99
+title:
+                人人都懂区块链 21天从区块链“小白”到资深玩家      
+itemURL:https://item.jd.com/12388500.html
+price:53.90
+goodRate:99
+title:
+                基于Python的大数据分析基础及实战      
+itemURL:https://item.jd.com/12392747.html
+price:61.40
+goodRate:99
+title:
+                码农翻身：用故事给技术加点料      
+itemURL:https://item.jd.com/12364204.html
+price:79.20
+goodRate:99
+title:
+                Java并发编程之美      
+itemURL:https://item.jd.com/12450812.html
+price:50.60
+goodRate:99
+title:
+                ASP.NET项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163089.html
+price:80.10
+goodRate:99
+title:
+                Docker技术入门与实战（第3版）      
+itemURL:https://item.jd.com/12453318.html
+price:65.60
+goodRate:99
+title:
+                Python自然语言处理实战：核心技术与算法      
+itemURL:https://item.jd.com/12375644.html
+price:69.80
+goodRate:99
+title:
+                R语言实战 第2版       
+itemURL:https://item.jd.com/11939734.html
+price:46.60
+goodRate:99
+title:
+                用Python写网络爬虫 第2版      
+itemURL:https://item.jd.com/12397576.html
+price:35.10
+goodRate:98
+title:
+                轻量级Django      
+itemURL:https://item.jd.com/12059360.html
+price:56.40
+goodRate:99
+title:
+                C语言精彩编程200例（全彩版 附光盘）      
+itemURL:https://item.jd.com/12199075.html
+price:75.10
+goodRate:98
+title:
+                Go Web编程      
+itemURL:https://item.jd.com/12252845.html
+price:65.60
+goodRate:99
+title:
+                Python算法教程      
+itemURL:https://item.jd.com/11841674.html
+price:46.60
+goodRate:0
+title:
+                编程之法：面试和算法心得      
+itemURL:https://item.jd.com/11786791.html
+price:104.60
+goodRate:97
+title:
+                C++ Primer（中文版 第5版）       
+itemURL:https://item.jd.com/11306138.html
+price:55.70
+goodRate:99
+title:
+                零压力学Python      
+itemURL:https://item.jd.com/12376262.html
+price:34.20
+goodRate:98
+title:
+                Python袖珍指南（第5版）      
+itemURL:https://item.jd.com/11593982.html
+price:53.10
+goodRate:99
+title:
+                区块链开发指南      
+itemURL:https://item.jd.com/12114753.html
+price:84.60
+goodRate:98
+title:
+                Spring实战（第4版）       
+itemURL:https://item.jd.com/11899370.html
+price:46.60
+goodRate:99
+title:
+                算法谜题      
+itemURL:https://item.jd.com/11412901.html
+price:46.50
+goodRate:99
+title:
+                Python机器学习经典实例      
+itemURL:https://item.jd.com/12163851.html
+price:65.60
+goodRate:0
+title:
+                重构 改善既有代码的设计       
+itemURL:https://item.jd.com/11728740.html
+price:88.10
+goodRate:99
+title:
+                码出高效：Java开发手册      
+itemURL:https://item.jd.com/12445838.html
+price:79.00
+goodRate:99
+title:
+                Python基础教程（第3版）      
+itemURL:https://item.jd.com/12279949.html
+price:88.10
+goodRate:99
+title:
+                深入理解ES6      
+itemURL:https://item.jd.com/12213616.html
+price:70.30
+goodRate:98
+title:
+                Python绝技：运用Python成为顶级黑客      
+itemURL:https://item.jd.com/11848567.html
+price:43.90
+goodRate:98
+title:
+                Java程序员面试笔试宝典      
+itemURL:https://item.jd.com/11551720.html
+price:105.90
+goodRate:99
+title:
+                Java EE互联网轻量级框架整合开发 SSM框架（Spring MVC+Spring+MyBatis）和Redis实现       
+itemURL:https://item.jd.com/12122571.html
+price:47.10
+goodRate:98
+title:
+                Spring Boot实战      
+itemURL:https://item.jd.com/11969881.html
+price:50.60
+goodRate:99
+title:
+                零基础学C语言（全彩版 附光盘小白手册）      
+itemURL:https://item.jd.com/12250414.html
+price:53.10
+goodRate:98
+title:
+                大话数据结构      
+itemURL:https://item.jd.com/10663703.html
+price:89.10
+goodRate:99
+title:
+                深度学习之TensorFlow：入门、原理与进阶实战      
+itemURL:https://item.jd.com/12313532.html
+price:71.80
+goodRate:98
+title:
+                C++从入门到精通（第3版）（配光盘）（软件开发视频大讲堂）      
+itemURL:https://item.jd.com/12211458.html
+price:41.60
+goodRate:0
+title:
+                JavaScript设计模式与开发实践      
+itemURL:https://item.jd.com/11686375.html
+price:79.20
+goodRate:99
+title:
+                Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用      
+itemURL:https://item.jd.com/12424639.html
+price:56.10
+goodRate:99
+title:
+                教孩子学编程 Python语言版      
+itemURL:https://item.jd.com/11896415.html
+price:47.90
+goodRate:98
+title:
+                华章专业开发者丛书·Java并发编程实战       
+itemURL:https://item.jd.com/10922250.html
+price:35.60
+goodRate:98
+title:
+                编程之美：微软技术面试心得      
+itemURL:https://item.jd.com/10066736.html
+price:43.40
+goodRate:99
+title:
+                Android项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163105.html
+price:57.00
+goodRate:96
+title:
+                C Primer Plus（第5版 中文版）      
+itemURL:https://item.jd.com/10062260.html
+price:71.10
+goodRate:98
+title:
+                O'Reilly：Head First Java（中文版 第2版 涵盖Java5.0）      
+itemURL:https://item.jd.com/10100190.html
+price:56.10
+goodRate:98
+title:
+                JavaScript设计模式      
+itemURL:https://item.jd.com/11747684.html
+price:75.10
+goodRate:98
+title:
+                Spring微服务实战      
+itemURL:https://item.jd.com/12357088.html
+price:47.60
+goodRate:99
+title:
+                jQuery Mobile从入门到精通      
+itemURL:https://item.jd.com/12222970.html
+price:113.90
+goodRate:99
+title:
+                云原生Java：Spring Boot、Spring Cloud与Cloud Foundry弹性系统设计      
+itemURL:https://item.jd.com/12398618.html
+price:94.10
+goodRate:99
+title:
+                深入浅出Spring Boot 2.x      
+itemURL:https://item.jd.com/12403128.html
+price:52.10
+goodRate:98
+title:
+                深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）      
+itemURL:https://item.jd.com/11252778.html
+price:84.20
+goodRate:99
+title:
+                Java开发详解（全彩版）      
+itemURL:https://item.jd.com/12403477.html
+price:133.20
+goodRate:98
+title:
+                Java经典实例（第三版）      
+itemURL:https://item.jd.com/11964115.html
+price:56.40
+goodRate:99
+title:
+                Visual Basic精彩编程200例 （全彩版 附1张光盘）      
+itemURL:https://item.jd.com/12271763.html
+price:70.30
+goodRate:99
+title:
+                深入浅出深度学习：原理剖析与Python实践      
+itemURL:https://item.jd.com/12195740.html
+price:71.10
+goodRate:99
+title:
+                深度探索区块链：Hyperledger技术与应用      
+itemURL:https://item.jd.com/12279369.html
+price:79.20
+goodRate:99
+title:
+                Spring Cloud微服务实战      
+itemURL:https://item.jd.com/12172344.html
+price:61.40
+goodRate:98
+title:
+                实战Java高并发程序设计      
+itemURL:https://item.jd.com/11800589.html
+price:79.00
+goodRate:98
+title:
+                JavaScript高级程序设计（第3版）       
+itemURL:https://item.jd.com/10951037.html
+price:142.20
+goodRate:97
+title:
+                Java 9编程参考官方大全（第10版）      
+itemURL:https://item.jd.com/12422371.html
+price:70.20
+goodRate:97
+title:
+                C++ Primer习题集（第5版）      
+itemURL:https://item.jd.com/11652578.html
+price:84.60
+goodRate:99
+title:
+                Qt 5.9 C++开发指南      
+itemURL:https://item.jd.com/12340017.html
+price:70.30
+goodRate:99
+title:
+                Spring Cloud与Docker微服务架构实战（第2版）      
+itemURL:https://item.jd.com/12393837.html
+price:50.60
+goodRate:99
+title:
+                JavaWeb项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163151.html
+price:70.30
+goodRate:99
+title:
+                深度学习算法实践      
+itemURL:https://item.jd.com/12224062.html
+price:125.10
+goodRate:99
+title:
+                Spark内核设计的艺术：架构设计与实现      
+itemURL:https://item.jd.com/12302500.html
+price:70.30
+goodRate:99
+title:
+                Spring Cloud与Docker高并发微服务架构设计实施      
+itemURL:https://item.jd.com/12378100.html
+price:50.60
+goodRate:99
+title:
+                JSP项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12233850.html
+price:53.10
+goodRate:99
+title:
+                区块链项目开发指南      
+itemURL:https://item.jd.com/12284210.html
+price:125.10
+goodRate:0
+title:
+                Java核心技术（卷2）：高级特性（原书第9版）      
+itemURL:https://item.jd.com/11409707.html
+price:82.70
+goodRate:98
+title:
+                Java核心技术 卷I：基础知识（原书第10版）       
+itemURL:https://item.jd.com/12037418.html
+price:88.10
+goodRate:99
+title:
+                Python与量化投资：从基础到实战      
+itemURL:https://item.jd.com/12333252.html
+price:62.10
+goodRate:0
+title:
+                Java核心技术系列：Java多线程编程核心技术      
+itemURL:https://item.jd.com/11701869.html
+price:47.90
+goodRate:0
+title:
+                数据结构与算法分析：Java语言描述（原书第3版）       
+itemURL:https://item.jd.com/11886254.html
+price:65.60
+goodRate:99
+title:
+                Spring源码深度解析      
+itemURL:https://item.jd.com/11311737.html
+price:133.20
+goodRate:98
+title:
+                Perl语言编程（第四版）      
+itemURL:https://item.jd.com/11544992.html
+price:49.00
+goodRate:98
+title:
+                Java程序员面试宝典（第4版）      
+itemURL:https://item.jd.com/11772823.html
+price:72.40
+goodRate:99
+title:
+                Python从入门到项目实践（全彩版）      
+itemURL:https://item.jd.com/12451724.html
+price:43.40
+goodRate:99
+title:
+                C语言项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163145.html
+price:37.10
+goodRate:99
+title:
+                编程珠玑（第2版 修订版）      
+itemURL:https://item.jd.com/11642529.html
+price:132.10
+goodRate:98
+title:
+                JavaScript权威指南（第6版）      
+itemURL:https://item.jd.com/10974436.html
+price:94.10
+goodRate:99
+title:
+                架构即未来：现代企业可扩展的Web架构、流程和组织（原书第2版）      
+itemURL:https://item.jd.com/11905648.html
+price:84.20
+goodRate:99
+title:
+                Android开发详解（全彩版）      
+itemURL:https://item.jd.com/12402753.html
+price:44.80
+goodRate:0
+title:
+                算法竞赛入门经典（第2版）      
+itemURL:https://item.jd.com/11469701.html
+price:134.10
+goodRate:97
+title:
+                学习OpenCV 3（中文版）      
+itemURL:https://item.jd.com/12418514.html
+price:70.30
+goodRate:97
+title:
+                深入分析Java Web技术内幕（修订版）      
+itemURL:https://item.jd.com/11520670.html
+price:103.00
+goodRate:98
+title:
+                算法导论（原书第3版）/计算机科学丛书      
+itemURL:https://item.jd.com/11144230.html
+price:63.00
+goodRate:99
+title:
+                Java 8实战      
+itemURL:https://item.jd.com/11917790.html
+price:88.20
+goodRate:99
+title:
+                O'Reilly：Head First设计模式（中文版）      
+itemURL:https://item.jd.com/10100236.html
+price:48.70
+goodRate:98
+title:
+                京东系统质量保障技术实战      
+itemURL:https://item.jd.com/12194007.html
+price:79.20
+goodRate:98
+title:
+                深入浅出 HTTPS：从原理到实战      
+itemURL:https://item.jd.com/12382462.html
+price:84.60
+goodRate:98
+title:
+                Java高并发编程详解：多线程与架构设计      
+itemURL:https://item.jd.com/12368970.html
+price:61.30
+goodRate:0
+title:
+                Java核心技术系列：Java虚拟机规范（Java SE 8版）      
+itemURL:https://item.jd.com/11703581.html
+price:63.50
+goodRate:99
+title:
+                Android精彩编程200例（全彩版  附2张光盘）      
+itemURL:https://item.jd.com/12237622.html
+price:88.10
+goodRate:98
+title:
+                图解Spark：核心技术与案例实战      
+itemURL:https://item.jd.com/12021791.html
+price:31.20
+goodRate:99
+title:
+                阿里巴巴Java开发手册      
+itemURL:https://item.jd.com/12284606.html
+price:37.40
+goodRate:99
+title:
+                Java项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163091.html
+price:27.20
+goodRate:99
+title:
+                数据结构（C语言版）/清华大学计算机系列教材      
+itemURL:https://item.jd.com/12407475.html
+price:65.60
+goodRate:99
+title:
+                Python数据分析与挖掘实战      
+itemURL:https://item.jd.com/11821937.html
+price:44.60
+goodRate:99
+title:
+                Python零基础入门学习-水木书荟      
+itemURL:https://item.jd.com/12004711.html
+price:57.90
+goodRate:99
+title:
+                零基础学Python（全彩版）      
+itemURL:https://item.jd.com/12353915.html
+price:115.20
+goodRate:99
+title:
+                Python从菜鸟到高手      
+itemURL:https://item.jd.com/12417265.html
+price:36.10
+goodRate:99
+title:
+                玩转C语言程序设计（全彩版）      
+itemURL:https://item.jd.com/12418636.html
+price:102.60
+goodRate:99
+title:
+                Python Cookbook（第3版）中文版      
+itemURL:https://item.jd.com/11681561.html
+price:70.30
+goodRate:99
+title:
+                深度学习轻松学：核心算法与视觉实践      
+itemURL:https://item.jd.com/12106435.html
+price:56.40
+goodRate:99
+title:
+                零基础学ASP.NET VS 2017 15小时视频 3个 实战项目      
+itemURL:https://item.jd.com/12382901.html
+price:43.60
+goodRate:98
+title:
+                啊哈C语言！逻辑的挑战（修订版）      
+itemURL:https://item.jd.com/12106072.html
+price:71.10
+goodRate:99
+title:
+                深度学习与计算机视觉：算法原理、框架应用与代码实现      
+itemURL:https://item.jd.com/12152559.html
+price:86.90
+goodRate:98
+title:
+                Java编程思想（第4版）       
+itemURL:https://item.jd.com/10058164.html
+price:65.60
+goodRate:98
+title:
+                笨办法学C语言      
+itemURL:https://item.jd.com/12340050.html
+price:61.70
+goodRate:99
+title:
+                Python编程从零基础到项目实战（微课视频版）      
+itemURL:https://item.jd.com/12458274.html
+price:28.70
+goodRate:99
+title:
+                Python语言程序设计基础（第2版）/教育部大学计算机课程改革项目规划教材      
+itemURL:https://item.jd.com/12128326.html
+price:84.60
+goodRate:98
+title:
+                Spring学习指南 第3版      
+itemURL:https://item.jd.com/12377547.html
+price:178.20
+goodRate:98
+title:
+                Python编程（第4版 套装上下册）      
+itemURL:https://item.jd.com/11598704.html
+price:89.10
+goodRate:98
+title:
+                Java编程的逻辑      
+itemURL:https://item.jd.com/12299018.html
+price:65.60
+goodRate:99
+title:
+                Netty实战      
+itemURL:https://item.jd.com/12070975.html
+price:61.40
+goodRate:99
+title:
+                Spring Cloud与Docker微服务架构实战      
+itemURL:https://item.jd.com/12168358.html
+price:43.20
+goodRate:98
+title:
+                Scala学习手册      
+itemURL:https://item.jd.com/11882913.html
+price:110.90
+goodRate:99
+title:
+                流畅的Python       
+itemURL:https://item.jd.com/12186192.html
+price:28.50
+goodRate:0
+title:
+                C和C++经典著作：C陷阱与缺陷      
+itemURL:https://item.jd.com/10062654.html
+price:240.30
+goodRate:98
+title:
+                程序员必读经典（深入理解计算机系统+算法导论 套装共2册）      
+itemURL:https://item.jd.com/12170782.html
+price:38.60
+goodRate:0
+title:
+                图灵程序设计丛书：你不知道的JavaScript（上卷）      
+itemURL:https://item.jd.com/11676671.html
+price:50.60
+goodRate:99
+title:
+                零基础学Java（全彩版）（附光盘小白手册）      
+itemURL:https://item.jd.com/12185501.html
+price:79.20
+goodRate:99
+title:
+                Java工程师修炼之道      
+itemURL:https://item.jd.com/12325207.html
+price:65.60
+goodRate:99
+title:
+                数据结构 Python语言描述      
+itemURL:https://item.jd.com/12273412.html
+price:54.50
+goodRate:98
+title:
+                C程序设计（第五版）+ 学习辅导(套装共2册)      
+itemURL:https://item.jd.com/12194885.html
+price:67.20
+goodRate:98
+title:
+                Vue.js实战      
+itemURL:https://item.jd.com/12215519.html
+price:62.30
+goodRate:0
+title:
+                你不知道的JavaScript 中卷      
+itemURL:https://item.jd.com/12030814.html
+price:61.20
+goodRate:99
+title:
+                Java从入门到精通（项目案例版）302节同步视频5大项目实战484个实例分析150学时在线课程      
+itemURL:https://item.jd.com/12184513.html
+price:89.10
+goodRate:99
+title:
+                区块链核心技术与应用      
+itemURL:https://item.jd.com/12419052.html
+price:45.80
+goodRate:99
+title:
+                Effective C++：改善程序与设计的55个具体做法（第3版 中文版）      
+itemURL:https://item.jd.com/10393318.html
+price:61.40
+goodRate:97
+title:
+                疯狂Kotlin讲义      
+itemURL:https://item.jd.com/12284595.html
+price:56.10
+goodRate:99
+title:
+                精通Python爬虫框架Scrapy      
+itemURL:https://item.jd.com/12292223.html
+price:50.60
+goodRate:99
+title:
+                C#项目开发实战入门（全彩版）      
+itemURL:https://item.jd.com/12163129.html
