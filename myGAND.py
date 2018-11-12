@@ -6,7 +6,20 @@ from urllib import error
 from bs4 import BeautifulSoup
 import json
 import time
+import logging
 
+
+logging.basicConfig(format='[%(asctime)s] %(message)s',level=logging.INFO)
+
+def SimpleLog(func):
+    def wrapper(*args,**kwargs):
+        logging.info("Enter into :%s" % func.__name__)
+        func(*args,**kwargs)
+        logging.info("Exit :%s" % func.__name__)
+        return func(*args,**kwargs)
+    return wrapper
+
+@SimpleLog
 def GetBSObject(url,headers,encoding=None):
     bsObj = None
     try:
@@ -15,7 +28,7 @@ def GetBSObject(url,headers,encoding=None):
         if encoding is not None:
             bsObj = BeautifulSoup(html,fromEncoding=encoding)
         else:
-            bsObj = BeautifulSoup(html)           
+            bsObj = BeautifulSoup(html)
     except error.HTTPError as e:
         print("Error in Getting BSObjetc.")
     finally:
@@ -33,7 +46,47 @@ def GetJSON(jsonStr):
         return dataJson
 
 
+def GetDataSKU(ItemInfo):
+    dataSkuA = ItemInfo.find("a",{"class":"p-o-btn focus J_focus"})
+    dataSku = dataSkuA["data-sku"]
+    return dataSku
 
+def GetTitleAndItemUrl(ItemInfo):
+    pName = ItemInfo.find("div",{"class":"p-name"})
+    title = pName.em.get_text()
+    itemURL = "https:"+pName.a["href"]
+    return title,itemURL
+
+def GetPrice(ItemInfo,dataSku):
+    priceURL = "https://p.3.cn/prices/mgets?callback=jQuery1&skuIds=J_"+dataSku
+    bsObj=GetBSObject(priceURL,headers)
+    dataJson = GetJSON(str(bsObj))
+    price = 0
+    try:
+        price = dataJson["p"]
+    except TypeError as e:
+        price = -1
+    finally:
+        return price
+
+def GetGoodRate(ItemInfo,dataSku,pageSize):
+        urlVeryDetailsJson = "https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4374&productId="+dataSku+"&score=0&sortType=5&page=0&pageSize="+str(pageSize)+"&isShadowSku=0&fold=1"
+        bsObj = GetBSObject(urlVeryDetailsJson,headers,"gb18030")
+        jsonPageComments = GetJSON(str(bsObj))
+        goodRate = 0
+        try:
+            goodRate = jsonPageComments["productCommentSummary"]["goodRate"]
+        except TypeError as e:
+            goodRate = -1
+        finally:
+            return goodRate
+
+def MoveToNextPage(nPageIndex):
+    nextPageURL ="https://list.jd.com/list.html?cat=1713,3287,3797&page="+str(nPageIndex)+"&sort=sort_rank_asc&trans=1&JL=6_0_0" 
+    bsObj = GetBSObject(nextPageURL,headers)
+    allItemInfo = {}
+    allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
+    return allItemInfo
 
 
 url = "https://list.jd.com/list.html?cat=1713,3287,3797"
@@ -46,37 +99,20 @@ allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
 
 dictItem = {}
 nTestCount = 2
-while nTestCount <= 50:
+while nTestCount <= 3:
     for ItemInfo in allItemInfo:
         dictItemValue = {}
         
         # Get dataSku,name,title and url
-        dataSkuA = ItemInfo.find("a",{"class":"p-o-btn focus J_focus"})
-        dataSku = dataSkuA["data-sku"]
-        pName = ItemInfo.find("div",{"class":"p-name"})
-        title = pName.em.get_text()
-        itemURL = "https:"+pName.a["href"]
+        dataSku = GetDataSKU(ItemInfo)
+        title,itemURL=GetTitleAndItemUrl(ItemInfo)
         
         # Get Price
-        priceURL = "https://p.3.cn/prices/mgets?callback=jQuery1&skuIds=J_"+dataSku
-        bsObj=GetBSObject(priceURL,headers)
-        dataJson = GetJSON(str(bsObj))
-        price = 0
-        try:
-            price = dataJson["p"]
-        except TypeError as e:
-            price = -1
+        price = GetPrice(ItemInfo,dataSku)
 
         # Get the goodRate
         pageSize = 1
-        urlVeryDetailsJson = "https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4374&productId="+dataSku+"&score=0&sortType=5&page=0&pageSize="+str(pageSize)+"&isShadowSku=0&fold=1"
-        bsObj = GetBSObject(urlVeryDetailsJson,headers,"gb18030")
-        jsonPageComments = GetJSON(str(bsObj))
-        goodRate = 0
-        try:
-            goodRate = jsonPageComments["productCommentSummary"]["goodRate"]
-        except TypeError as e:
-            goodRate = -1
+        goodRate = GetGoodRate(ItemInfo,dataSku,pageSize)
 
         # Add into a Dict.
         dictItemValue["title"] = title
@@ -91,10 +127,8 @@ while nTestCount <= 50:
 
     time.sleep(3)
     # move to next page
-    nextPageURL ="https://list.jd.com/list.html?cat=1713,3287,3797&page="+str(nTestCount)+"&sort=sort_rank_asc&trans=1&JL=6_0_0" 
-    bsObj = GetBSObject(nextPageURL,headers)
     allItemInfo.clear()
-    allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
+    allItemInfo = MoveToNextPage(nTestCount)
 
     nTestCount += 1
 
