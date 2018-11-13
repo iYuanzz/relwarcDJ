@@ -1,0 +1,122 @@
+11993134,
+                Python编程 从入门到实践       ,https://item.jd.com/11993134.html,70.30,99.0
+12445838,
+                码出高效：Java开发手册      ,https://item.jd.com/12445838.html,79.00,99.0
+11444582,
+                Web性能权威指南      ,https://item.jd.com/11444582.html,55.00,98.0
+11936238,
+                Python核心编程（第3版）       ,https://item.jd.com/11936238.html,79.20,99.0
+10062652,
+                C++沉思录：Ruminations on C++      ,https://item.jd.com/10062652.html,46.10,98.0
+11144230,
+                算法导论（原书第3版）/计算机科学丛书      ,https://item.jd.com/11144230.html,103.00,98.0
+12271635,
+                Web前端技术丛书：新时期的Node.js入门      ,https://item.jd.com/12271635.html,39.70,98.0
+12364204,
+                码农翻身：用故事给技术加点料      ,https://item.jd.com/12364204.html,55.00,99.0
+11804778,
+                编程珠玑 第2版 英文版      ,https://item.jd.com/11804778.html,32.70,99.0
+12372646,
+                笨办法学Python 3      ,https://item.jd.com/12372646.html,49.40,99.0
+12242004,
+                明解C语言 中级篇      ,https://item.jd.com/12242004.html,71.00,99.0
+11252778,
+                深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）      ,https://item.jd.com/11252778.html,62.10,98.0
+12435777,
+                区块链轻松上手：原理、源码、搭建与应用      ,https://item.jd.com/12435777.html,63.00,99.0
+12279949,
+                Python基础教程（第3版）      ,https://item.jd.com/12279949.html,79.00,99.0
+11937100,
+                深入浅出DPDK      ,https://item.jd.com/11937100.html,54.20,99.0
+11886254,
+                数据结构与算法分析：Java语言描述（原书第3版）       ,https://item.jd.com/11886254.html,54.20,98.0
+12067579,
+                微信小程序开发入门与实践/移动开发丛书      ,https://item.jd.com/12067579.html,55.90,98.0
+11728740,
+                重构 改善既有代码的设计       ,https://item.jd.com/11728740.html,57.80,99.0
+10079621,
+                机器视觉算法与应用（双语版）      ,https://item.jd.com/10079621.html,57.50,98.0
+11943853,
+                Python编程快速上手 让繁琐工作自动化      ,https://item.jd.com/11943853.html,57.80,99.0
+10238776646,
+                汇编语言(第3版) 王爽 [Assembly Language]      ,https://item.jd.com/10238776646.html,29.90,98.0
+11917487,
+                C Primer Plus 第6版 中文版       ,https://item.jd.com/11917487.html,74.50,98.0
+12325717,
+                React进阶之路      ,https://item.jd.com/12325717.html,55.90,99.0
+12393837,
+                Spring Cloud与Docker微服务架构实战（第2版）      ,https://item.jd.com/12393837.html,63.00,99.0
+11961241,
+                深入浅出MyBatis技术原理与实战      ,https://item.jd.com/11961241.html,55.00,98.0
+10064006,
+                代码整洁之道       ,https://item.jd.com/10064006.html,49.40,99.0
+12394527,
+                Unity 案例开发大全 第2版      ,https://item.jd.com/12394527.html,74.50,98.0
+12335366,
+                Python神经网络编程      ,https://item.jd.com/12335366.html,57.80,99.0
+12015701,
+                Unity 3D网络游戏实战      ,https://item.jd.com/12015701.html,62.40,99.0
+12004711,
+                Python零基础入门学习-水木书荟      ,https://item.jd.com/12004711.html,40.10,99.0
+12353915,
+                零基础学Python（全彩版）      ,https://item.jd.com/12353915.html,57.90,99.0
+11098788,
+                鲜活的数据：数据可视化指南      ,https://item.jd.com/11098788.html,55.00,98.0
+11017238,
+                C++ Primer Plus（第6版 中文版）       ,https://item.jd.com/11017238.html,79.20,98.0
+11736483,
+                JavaScript函数式编程      ,https://item.jd.com/11736483.html,41.00,99.0
+10058164,
+                Java编程思想（第4版）       ,https://item.jd.com/10058164.html,86.90,98.0
+11821364,
+                Python语言及其应用      ,https://item.jd.com/11821364.html,63.00,99.0
+12037418,
+                Java核心技术 卷I：基础知识（原书第10版）       ,https://item.jd.com/12037418.html,93.50,98.0
+12040511,
+                Python可以这样学      ,https://item.jd.com/12040511.html,55.90,98.0
+12273412,
+                数据结构 Python语言描述      ,https://item.jd.com/12273412.html,57.80,99.0
+11871839,
+                产品经理面试攻略      ,https://item.jd.com/11871839.html,48.70,99.0
+11899370,
+                Spring实战（第4版）       ,https://item.jd.com/11899370.html,74.50,98.0
+10100557,
+                O'Reilly：Head First Ajax （中文版）      ,https://item.jd.com/10100557.html,63.40,99.0
+11985075,
+                Java从入门到精通（第4版 附光盘）      ,https://item.jd.com/11985075.html,56.30,97.0
+11642529,
+                编程珠玑（第2版 修订版）      ,https://item.jd.com/11642529.html,32.70,99.0
+12198563,
+                Java核心技术卷II：高级特性（原书第10版）      ,https://item.jd.com/12198563.html,109.20,98.0
+12163054,
+                剑指Offer：名企面试官精讲典型编程题（第2版）      ,https://item.jd.com/12163054.html,51.80,98.0
+12172344,
+                Spring Cloud微服务实战      ,https://item.jd.com/12172344.html,71.00,99.0
+11598704,
+                Python编程（第4版 套装上下册）      ,https://item.jd.com/11598704.html,160.90,98.0
+12451724,
+                Python从入门到项目实践（全彩版）      ,https://item.jd.com/12451724.html,72.40,99.0
+10100236,
+                O'Reilly：Head First设计模式（中文版）      ,https://item.jd.com/10100236.html,67.40,99.0
+12357088,
+                Spring微服务实战      ,https://item.jd.com/12357088.html,66.20,98.0
+11098789,
+                算法(第4版)      ,https://item.jd.com/11098789.html,78.20,99.0
+12417265,
+                Python从菜鸟到高手      ,https://item.jd.com/12417265.html,103.60,99.0
+12398725,
+                利用Python进行数据分析（原书第2版）       ,https://item.jd.com/12398725.html,95.80,99.0
+12148832,
+                算法图解       ,https://item.jd.com/12148832.html,39.10,99.0
+11894632,
+                JavaEE开发的颠覆者：Spring Boot实战       ,https://item.jd.com/11894632.html,71.00,99.0
+12284606,
+                阿里巴巴Java开发手册      ,https://item.jd.com/12284606.html,27.90,99.0
+11520670,
+                深入分析Java Web技术内幕（修订版）      ,https://item.jd.com/11520670.html,63.00,97.0
+11821937,
+                Python数据分析与挖掘实战      ,https://item.jd.com/11821937.html,56.90,99.0
+12186192,
+                流畅的Python       ,https://item.jd.com/12186192.html,110.90,99.0
+11841674,
+                Python算法教程      ,https://item.jd.com/11841674.html,57.80,99.0

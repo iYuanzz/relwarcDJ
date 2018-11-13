@@ -8,7 +8,11 @@ import json
 import time
 import logging
 import functools
+from multiprocessing import Pool
 
+headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64)'
+           'AppleWebKit/537.36 (KHTML, like Gecko)'
+           ' Chrome/55.0.2883.103 Safari/537.36'}
 
 def InitialLog():
     logger = logging.getLogger("funny logger")
@@ -102,53 +106,69 @@ def MoveToNextPage(nPageIndex):
     allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
     return allItemInfo
 
+def OutputTheResult(strItem):
+    with open("result.txt","a+") as f:
+        f.writelines(strItem)
 
-url = "https://list.jd.com/list.html?cat=1713,3287,3797"
-headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64)'
-           'AppleWebKit/537.36 (KHTML, like Gecko)'
-           ' Chrome/55.0.2883.103 Safari/537.36'}
+def CrawlTheItem(nStartPage,nEndPage):
+    allItemInfo = None
 
-bsObj = GetBSObject(url,headers)
-allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
+    print(str(nStartPage)+","+str(nEndPage))
+    if nStartPage == 1:
+        url = "https://list.jd.com/list.html?cat=1713,3287,3797"
 
-dictItem = {}
-nTestCount = 2
-while nTestCount <= 3:
-    for ItemInfo in allItemInfo:
-        dictItemValue = {}
+        bsObj = GetBSObject(url,headers)
+        allItemInfo = bsObj.findAll("li",{"class":"gl-item"})
+    else:
+        allItemInfo = MoveToNextPage(nStartPage)
+
+    for i in range(nStartPage+1,nEndPage+1):
+        for ItemInfo in allItemInfo:
+            #dictItemValue = {}
         
-        # Get dataSku,name,title and url
-        dataSku = GetDataSKU(ItemInfo)
-        title,itemURL=GetTitleAndItemUrl(ItemInfo)
+            # Get dataSku,name,title and url
+            dataSku = GetDataSKU(ItemInfo)
+            title,itemURL=GetTitleAndItemUrl(ItemInfo)
         
-        # Get Price
-        price = GetPrice(ItemInfo,dataSku)
+            # Get Price
+            price = GetPrice(ItemInfo,dataSku)
 
-        # Get the goodRate
-        pageSize = 1
-        goodRate = GetGoodRate(ItemInfo,dataSku,pageSize)
+            # Get the goodRate
+            pageSize = 1
+            goodRate = GetGoodRate(ItemInfo,dataSku,pageSize)
 
-        # Add into a Dict.
-        dictItemValue["title"] = title
-        dictItemValue["itemURL"] = itemURL
-        dictItemValue["price"] = price
-        dictItemValue["goodRate"] = int(goodRate*100)
-        dictItem[dataSku] = dictItemValue
+            # Add into a Dict.
+            #dictItemValue["title"] = title
+            #dictItemValue["itemURL"] = itemURL
+            #dictItemValue["price"] = price
+            #dictItemValue["goodRate"] = int(goodRate*100)
+            #dictItem[dataSku] = dictItemValue
         
-        # Print for interactive
-        strValueToPrint = (dataSku,title,itemURL,price,str(goodRate*100))
-        print(",".join(strValueToPrint))
+            # Print for interactive
+            strValueToPrint = (dataSku,title,itemURL,price,str(goodRate*100))
+        
+            OutputTheResult(",".join(strValueToPrint)+"\n")
+        
+        time.sleep(3)
+        # move to next page
+        allItemInfo.clear()
+        allItemInfo = MoveToNextPage(i)
+    
+    return nEndPage
 
-    time.sleep(3)
-    # move to next page
-    allItemInfo.clear()
-    allItemInfo = MoveToNextPage(nTestCount)
 
-    nTestCount += 1
+if __name__=="__main__":
+    pool = Pool()
+    
+    #dictItem = {}a
+    for i in range(1,20,10):
+        pool.apply_async(CrawlTheItem,(i,i+10))
 
-'''
-for key in dictItem:
-    for subKey in dictItem[key]:
-        #pass
-        print(subKey+":"+str(dictItem[key][subKey]))
-'''
+    pool.close()
+    pool.join()
+    '''
+    for key in dictItem:
+        for subKey in dictItem[key]:
+            #pass
+            print(subKey+":"+str(dictItem[key][subKey]))
+    '''
